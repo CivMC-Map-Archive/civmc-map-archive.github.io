@@ -3,7 +3,7 @@ title = "Recent Archives"
 
   [entries.post_list]
   limit = 5
-  show_more = true
+  show_more = false
   show_more_text = "See archive..."
   show_more_url = "posts"
 
@@ -49,15 +49,3 @@ title = "Archived Claims Maps by TheJmqn"
     show_more = true
     show_more_text = "See more archives of 2022 Claims Maps..."
     show_more_url = "2022-claims-maps"
-
-[[entries]]
-title = "Archived Alliance Charts by VilyanZ"
-
-  [[entries.entries]]
-  title = "2025 Alliance Charts"
-
-    [entries.entries.post_list]
-    section = "2025-alliance-charts"
-    show_more = true
-    show_more_text = "Archive of 2025 Alliance Charts..."
-    show_more_url = "2025-alliance-charts"

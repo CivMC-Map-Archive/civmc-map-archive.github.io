@@ -8,4 +8,4 @@ Source: [https://www.reddit.com/r/CivMC/comments/va8bd5/civmc_unoffical_map_2_la
 
 TheJmqn: *In the first image the claims map of CivMC exactly 9 days after launch is pictured next to the claims of CivClassic exactly 9 months after launch. The second image is the claims map itself.*
 
-![Claims #2](../../static/images/CivMC-Claims-2.webp)
+[![Claims #2](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-2.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-2.webp)

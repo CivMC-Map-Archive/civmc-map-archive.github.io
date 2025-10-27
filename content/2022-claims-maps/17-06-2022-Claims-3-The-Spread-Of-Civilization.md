@@ -8,5 +8,8 @@ Source: [https://www.reddit.com/r/CivMC/comments/vepb0y/civmc_unofficial_claims_
 
 TheJmqn: *All land is now (hopefully) mapped out, Please read comments for important advertisement project I am working on that all nations are invited and encouraged to participate in (please participate)*
 
-![Claims #3](../../static/images/CivMC-Claims-3.webp)
-![Claims #3 Light](../../static/images/CivMC-Claims-3-Light.webp)
+Dark Mode Map:
+[![Claims #3](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-3.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-3.webp)
+
+Light Mode Map:
+[![Claims #3 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-3-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-3-Light.webp)

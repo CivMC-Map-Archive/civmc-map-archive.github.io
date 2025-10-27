@@ -8,5 +8,8 @@ Source: [https://www.reddit.com/r/CivMC/comments/vm7vgu/civmc_unofficial_claims_
 
 TheJmqn: *Remember that this map shows de jure claims, not de facto control. The third image has some organizations and alliances across the server.*
 
-![Claims #4](../../static/images/CivMC-Claims-4.webp)
-![Claims #4 Light](../../static/images/CivMC-Claims-4-Light.webp)
+Dark Mode Map:
+[![Claims #4](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-4.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-4.webp)
+
+Light Mode Map:
+[![Claims #4 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-4-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-4-Light.webp)
