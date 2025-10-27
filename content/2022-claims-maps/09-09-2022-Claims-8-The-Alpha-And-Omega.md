@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/x9j0tz/civmc_unofficial_claims_
 TheJmqn: *The Generic War continues, some saying it is a second infinity war. does omega come after infinity? the omega war? anyways sorry that theres no other random maps (like the metro/geography) i couldnt think of any ideas so lmk if you have one.*
 
 Dark Mode Map:
-[![Claims #8](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-8.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-8.webp)
+[![Claims #8](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-8.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-8.webp)
 
 Light Mode Map:
-[![Claims #8 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-8-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-8-Light.webp)
+[![Claims #8 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-8-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-8-Light.webp)

@@ -11,7 +11,7 @@ TheJmqn: *After the end of some wars the number of nations on the server has sta
 Note from maintainer: *Third map is not included in this page, but can be found on the source link above.*
 
 Dark Mode Map:
-[![Claims #12](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-12.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-12.webp)
+[![Claims #12](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-12.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-12.webp)
 
 Light Mode Map:
-[![Claims #12 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-12-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-12-Light.webp)
+[![Claims #12 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-12-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-12-Light.webp)

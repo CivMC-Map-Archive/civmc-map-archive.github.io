@@ -1,0 +1,8 @@
+site = "public"
+glob = "*claims-maps/**/*.html"
+exclude_selectors = [
+  "nav",
+  ".pagination",
+  "footer", 
+  "head"
+]

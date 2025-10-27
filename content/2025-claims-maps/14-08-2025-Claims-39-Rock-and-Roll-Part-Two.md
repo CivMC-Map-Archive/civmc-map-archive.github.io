@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1mq99s1/civmc_unofficial_claims
 TheJmqn: *An influx of players has caused a spike in server population. Act 2 of the third CivMC Summer brings us to the rising action, with a key conflict between major players on the server. CivMC is being rocked and rolled, yet again.*
 
 Dark Mode Map:
-[![Claims #39](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-39.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-39.png)
+[![Claims #39](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-39.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-39.png)
 
 Light Mode Map:
-[![Claims #39 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-39-Light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-39-Light.png)
+[![Claims #39 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-39-Light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-39-Light.png)

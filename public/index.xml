@@ -9,7 +9,7 @@
     <lastBuildDate>Tue, 23 Sep 2025 04:39:58 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Claims Map #40 &#34;Dancing With Fire&#34;</title>
+      <title>Claims #40 &#34;Dancing With Fire&#34;</title>
       <link>http://localhost:1313/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/</link>
       <pubDate>Tue, 23 Sep 2025 04:39:58 +0000</pubDate>
       <guid>http://localhost:1313/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/</guid>
@@ -149,6 +149,13 @@
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://www.reddit.com/r/CivMC/comments/17jz5d3/civmc_unofficial_map_21_were_serious_about/&#34;&gt;https://www.reddit.com/r/CivMC/comments/17jz5d3/civmc_unofficial_map_21_were_serious_about/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;TheJmqn: &lt;em&gt;The number of claims on the map has reduced as some consolidation occurs during the continued period of calm. Ill try to put out a few more statistics on the map in the future like the claim size chart or the claim change heat map.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dark Mode Map:&#xA;&lt;a href=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-21.webp&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-21.webp&#34; alt=&#34;Claims #21&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Light Mode Map:&#xA;&lt;a href=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-21-Light.webp&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-21-Light.webp&#34; alt=&#34;Claims #21 Light&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claims #20 &#34;The Gilded Age&#34;</title>
+      <link>http://localhost:1313/2023-claims-maps/20-09-2023-claims-20-the-gilded-age/</link>
+      <pubDate>Wed, 20 Sep 2023 14:37:20 +0000</pubDate>
+      <guid>http://localhost:1313/2023-claims-maps/20-09-2023-claims-20-the-gilded-age/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://www.reddit.com/r/CivMC/comments/16nmx4v/civmc_unofficial_map_20_the_gilded_age_it_is/&#34;&gt;https://www.reddit.com/r/CivMC/comments/16nmx4v/civmc_unofficial_map_20_the_gilded_age_it_is/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;TheJmqn: &lt;em&gt;It is another time of relative calm on the server as nations build up their economic and military power, so there are not too many chages overall. The third map is a map of official alliances (3+ members). i might make a &amp;ldquo;spheres of influence&amp;rdquo; map too.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Note from maintainer: &lt;em&gt;Third map is not included in this page, but can be found on the source link above.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dark Mode Map:&#xA;&lt;a href=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20.webp&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20.webp&#34; alt=&#34;Claims #20&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claims #19 &#34;The Political Quadrille&#34;</title>
       <link>http://localhost:1313/2023-claims-maps/11-08-2023-claims-19-the-political-quadrille/</link>
       <pubDate>Fri, 11 Aug 2023 19:01:46 +0000</pubDate>
@@ -280,6 +287,13 @@
       <pubDate>Wed, 08 Jun 2022 14:18:43 +0000</pubDate>
       <guid>http://localhost:1313/2022-claims-maps/08-06-2022-claims-1-quickly-claimed-yet-still-calm/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://www.reddit.com/r/CivMC/comments/v868sq/quickly_claimed_yet_still_calm_civmc_unofficial&#34;&gt;https://www.reddit.com/r/CivMC/comments/v868sq/quickly_claimed_yet_still_calm_civmc_unofficial&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-1.png&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-1.png&#34; alt=&#34;Claims #1&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description>&lt;p&gt;Use the search bar above to find content across all map archives.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

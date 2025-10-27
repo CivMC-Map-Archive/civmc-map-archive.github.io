@@ -11,7 +11,7 @@ TheJmqn: *Almost all land on the server is now claimed, except for some islands 
 Note from maintainer: *Third and fourth maps are not included in this page, but can be found on the source link above.*
 
 Dark Mode Map:
-[![Claims #7](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-7.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-7.webp)
+[![Claims #7](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-7.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-7.webp)
 
 Light Mode Map:
-[![Claims #7 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-7-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-7-Light.webp)
+[![Claims #7 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-7-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-7-Light.webp)

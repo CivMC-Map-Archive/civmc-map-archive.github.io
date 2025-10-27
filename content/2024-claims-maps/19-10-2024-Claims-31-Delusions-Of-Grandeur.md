@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1g7kfqb/civmc_unofficial_claims
 TheJmqn: *A busy life for many people, but CivMC carries on with a surprising wave of inactivity. The largest nations grow the most and strengthen their hold over the server with the influx of players. We all are the best at something, after all.*
 
 Dark Mode Map:
-[![Claims #31](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-31.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-31.webp)
+[![Claims #31](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-31.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-31.webp)
 
 Light Mode Map:
-[![Claims #31 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-31-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-31-Light.webp)
+[![Claims #31 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-31-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-31-Light.webp)

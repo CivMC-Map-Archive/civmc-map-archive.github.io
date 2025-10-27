@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/vupeny/civmc_unofficial_claims_
 TheJmqn: *Dark and light mode maps as well as a map of the continents, oceans, and two subcontinent. If other subcontinent and oceans are named I would be happy to add them to the map.*
 
 Dark Mode Map:
-[![Claims #5](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-5.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-5.webp)
+[![Claims #5](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-5.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-5.webp)
 
 Light Mode Map:
-[![Claims #5 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-5-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-5-Light.webp)
+[![Claims #5 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-5-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-5-Light.webp)

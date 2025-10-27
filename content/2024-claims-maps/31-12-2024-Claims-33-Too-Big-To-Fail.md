@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1hq7jqt/civmc_unofficial_claims
 TheJmqn: *As the year comes to an end and a new one begins, the major powers remain generally unchanged since the fall of Gang Shi / Butternut and the start of the year. This has led to a question for the new year: are some nations just Too Big to Fail?*
 
 Dark Mode Map:
-[![Claims #33](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-33.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-33.webp)
+[![Claims #33](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-33.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-33.webp)
 
 Light Mode Map:
-[![Claims #33 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-33-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-33-Light.webp)
+[![Claims #33 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-33-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-33-Light.webp)

@@ -1,6 +1,6 @@
 +++
-date = '2023-09-20T19:52:19-04:00'
-draft = true
+date = '2023-09-20T14:37:20+00:00'
+draft = false
 title = 'Claims #20 "The Gilded Age"'
 +++
 
@@ -11,7 +11,7 @@ TheJmqn: *It is another time of relative calm on the server as nations build up 
 Note from maintainer: *Third map is not included in this page, but can be found on the source link above.*
 
 Dark Mode Map:
-[![Claims #20](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20.webp)
+[![Claims #20](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-20.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-20.webp)
 
 Light Mode Map:
-[![Claims #20 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-20-Light.webp)
+[![Claims #20 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-20-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-20-Light.webp)

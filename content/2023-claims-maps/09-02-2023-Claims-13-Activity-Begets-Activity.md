@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/10ydjl3/civmc_unofficial_claims
 TheJmqn: *There have been many talks recently about the harmful effects of inactive nations being kept on the map. I have removed some inactive nations to help solve this problem. If you were removed and are active again, lmk, ill put you back on.*
 
 Dark Mode Map:
-[![Claims #13](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-13.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-13.webp)
+[![Claims #13](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-13.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-13.webp)
 
 Light Mode Map:
-[![Claims #13 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-13-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-13-Light.webp)
+[![Claims #13 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-13-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-13-Light.webp)

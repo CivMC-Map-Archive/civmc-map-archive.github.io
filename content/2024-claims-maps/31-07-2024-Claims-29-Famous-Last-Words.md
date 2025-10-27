@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1eh1xu5/civmc_unofficial_claims
 TheJmqn: *A few of the expected brief interruptions in the normal state of affairs have arisen, but things eventually return to the status quo. Overconfidence is a powerful force, and life always goes on. Also quite a high percent is claimed currently.*
 
 Dark Mode Map:
-[![Claims #29](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-29.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-29.webp)
+[![Claims #29](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-29.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-29.webp)
 
 Light Mode Map:
-[![Claims #29 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-29-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-29-Light.webp)
+[![Claims #29 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-29-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-29-Light.webp)

@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1h1nsuz/civmc_unofficial_claims
 TheJmqn: *Server activity (misspelled in previous post) continues with new updates and a New Long Peace. While nothing is perfect and some holes remain, there is room for growth and most hope to look back at these times as part of a long era.*
 
 Dark Mode Map:
-[![Claims #32](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-32.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-32.webp)
+[![Claims #32](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-32.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-32.webp)
 
 Light Mode Map:
-[![Claims #32 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-32-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-32-Light.webp)
+[![Claims #32 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-32-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-32-Light.webp)

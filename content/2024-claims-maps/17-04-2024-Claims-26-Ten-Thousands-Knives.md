@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1c6lh6i/civmc_unofficial_map_26
 TheJmqn: *Consolidation continues as the number of small and medium sized nations dwindles. New allies and new foes are made, but peace continues as old habits are not strong enough to break. peace and growth continue for another month as real life goes on.*
 
 Dark Mode Map:
-[![Claims #26](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-26.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-26.webp)
+[![Claims #26](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-26.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-26.webp)
 
 Light Mode Map:
-[![Claims #26 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-26-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-26-Light.webp)
+[![Claims #26 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-26-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-26-Light.webp)

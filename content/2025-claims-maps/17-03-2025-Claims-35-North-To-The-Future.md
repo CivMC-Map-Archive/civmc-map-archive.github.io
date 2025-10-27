@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1jfes9o/civmc_unofficial_claims
 TheJmqn: *Minor conflicts have occurred around the server as the established nations seek to prevent larger conflicts in the future. The map is also the most claimed it has been since the end of the Third Gang Shi War, as a sign of the server's activity.*
 
 Dark Mode Map:
-[![Claims #35](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-35.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-35.webp)
+[![Claims #35](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-35.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-35.webp)
 
 Light Mode Map:
-[![Claims #35 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-35-light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-35-light.png)
+[![Claims #35 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-35-light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-35-light.png)

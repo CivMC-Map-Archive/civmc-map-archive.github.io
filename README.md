@@ -6,6 +6,7 @@ This repo contains the source code for the CivMC Maps Archive website, which hos
 
 - Framework: [Hugo](https://gohugo.io/)
 - Hugo Theme: [NoStylePlease](https://github.com/hanwenguo/hugo-theme-nostyleplease/)
+- Search and Indexing: [Pagefind](https://pagefind.app/)
 - Hosting: GitHub Pages
 
 ## How to edit a page

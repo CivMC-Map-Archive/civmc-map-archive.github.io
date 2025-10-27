@@ -22,7 +22,17 @@
 </head>
 <body a="auto">
         <main class="page-content" aria-label="Content">
-            <div class="w">
+            <div class="w"><div class="search-container">
+    <div id="search-bar"></div>
+</div>
+
+<style>
+.search-container {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color, #ddd);
+}
+</style>
 
 <header>
     <h1>CivMC Map Archive</h1></header>
@@ -33,7 +43,7 @@
     
     <ul><li>
             <span>23-09-2025</span>
-            <a href="/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/">Claims Map #40 &#34;Dancing With Fire&#34;</a>
+            <a href="/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/">Claims #40 &#34;Dancing With Fire&#34;</a>
         </li>
         <li>
             <span>14-08-2025</span>
@@ -60,7 +70,7 @@
     
     <ul><li>
             <span>23-09-2025</span>
-            <a href="/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/">Claims Map #40 &#34;Dancing With Fire&#34;</a>
+            <a href="/2025-claims-maps/24-09-2025-claims-40-dancing-with-fire/">Claims #40 &#34;Dancing With Fire&#34;</a>
         </li>
         
             <li><a href="/2025-claims-maps">See more archives of 2025 Claims Maps...</a></li>
@@ -104,9 +114,6 @@
     </ul>
 
 </ul>
-<li>Archived Alliance Charts by VilyanZ</li>
-            <ul><li>2025 Alliance Charts</li>
-</ul>
 </ul>
 
 
@@ -120,5 +127,19 @@
 
             </div>
         </main>
+
+        
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ 
+                    element: "#search-bar",
+                    showSubResults: true,
+                    showImages: false,
+                    excerptLength: 15
+                });
+            });
+        </script>
     </body>
 </html>

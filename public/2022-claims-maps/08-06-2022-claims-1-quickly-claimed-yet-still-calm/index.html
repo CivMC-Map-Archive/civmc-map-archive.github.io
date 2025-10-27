@@ -22,7 +22,17 @@
 </head>
 <body a="auto">
         <main class="page-content" aria-label="Content">
-            <div class="w">
+            <div class="w"><div class="search-container">
+    <div id="search-bar"></div>
+</div>
+
+<style>
+.search-container {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color, #ddd);
+}
+</style>
 <a href="/">&lt;- Back</a>
 
 
@@ -51,5 +61,19 @@
 
             </div>
         </main>
+
+        
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ 
+                    element: "#search-bar",
+                    showSubResults: true,
+                    showImages: false,
+                    excerptLength: 15
+                });
+            });
+        </script>
     </body>
 </html>

@@ -4,9 +4,24 @@
     <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
         <main class="page-content" aria-label="Content">
             <div class="w">
+                {{- partial "search.html" . -}}
                 {{- block "main" . }}{{- end }}
                 {{ partial "footer.html" }}
             </div>
         </main>
+
+        <!-- Pagefind scripts -->
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ 
+                    element: "#search-bar",
+                    showSubResults: true,
+                    showImages: false,
+                    excerptLength: 15
+                });
+            });
+        </script>
     </body>
 </html>

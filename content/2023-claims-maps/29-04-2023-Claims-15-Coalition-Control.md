@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/13vcdhb/civmc_unofficial_claims
 TheJmqn: *This claims map is not up to date and was uploaded for archival purposes only so people searching the subreddit in the future can find this map easier. Ignore this post if you are not living in the future (and if you are in the future say hi).*
 
 Dark Mode Map:
-[![Claims #15](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-15.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-15.webp)
+[![Claims #15](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-15.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-15.webp)
 
 Light Mode Map:
-[![Claims #15 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-15-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-15-Light.webp)
+[![Claims #15 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-15-Light.webp)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-15-Light.webp)

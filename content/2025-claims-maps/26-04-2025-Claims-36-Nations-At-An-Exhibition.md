@@ -9,7 +9,7 @@ Source: [https://www.reddit.com/r/CivMC/comments/1k8seyo/civmc_unofficial_claims
 TheJmqn: *With new alliances and nations being formed and older ones being revived, the powers of the world are on display for all to see. The summer is arriving soon when servers tend to heat up, so nations are now to building up just in case...*
 
 Dark Mode Map:
-[![Claims #36](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-36.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-36.png)
+[![Claims #36](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-36.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-36.png)
 
 Light Mode Map:
-[![Claims #36 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-36-Light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/public/images/CivMC-Claims-36-Light.png)
+[![Claims #36 Light](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-36-Light.png)](https://raw.githubusercontent.com/CivMC-Map-Archive/civmc-map-archive.github.io/refs/heads/main/static/images/CivMC-Claims-36-Light.png)
