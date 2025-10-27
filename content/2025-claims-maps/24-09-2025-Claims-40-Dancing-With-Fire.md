@@ -1,7 +1,7 @@
 +++
 date = '2025-09-23T04:39:58+00:00'
 draft = false
-title = 'Claims Map #40 "Dancing With Fire"'
+title = 'Claims #40 "Dancing With Fire"'
 +++
 
 Source: [https://www.reddit.com/r/CivMC/comments/1np34p8/civmc_unofficial_claims_map_40_dancing_with_fire/](https://www.reddit.com/r/CivMC/comments/1np34p8/civmc_unofficial_claims_map_40_dancing_with_fire/)
