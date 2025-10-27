@@ -1,0 +1,63 @@
+[[entries]]
+title = "Recent Archives"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "Archived Claims Maps by TheJmqn"
+
+  [[entries.entries]]
+  title = "2025 Claims Maps"
+
+    [entries.entries.post_list]
+    section = "2025-claims-maps"
+    limit = 1
+    show_more = true
+    show_more_text = "See more archives of 2025 Claims Maps..."
+    show_more_url = "2025-claims-maps"
+
+  [[entries.entries]]
+  title = "2024 Claims Maps"
+
+    [entries.entries.post_list]
+    section = "2024-claims-maps"
+    limit = 1
+    show_more = true
+    show_more_text = "See more archives of 2024 Claims Maps..."
+    show_more_url = "2024-claims-maps"
+
+  [[entries.entries]]
+  title = "2023 Claims Maps"
+
+    [entries.entries.post_list]
+    section = "2023-claims-maps"
+    limit = 1
+    show_more = true
+    show_more_text = "See more archives of 2023 Claims Maps..."
+    show_more_url = "2023-claims-maps"
+
+  [[entries.entries]]
+  title = "2022 Claims Maps"
+
+    [entries.entries.post_list]
+    section = "2022-claims-maps"
+    limit = 1
+    show_more = true
+    show_more_text = "See more archives of 2022 Claims Maps..."
+    show_more_url = "2022-claims-maps"
+
+[[entries]]
+title = "Archived Alliance Charts by VilyanZ"
+
+  [[entries.entries]]
+  title = "2025 Alliance Charts"
+
+    [entries.entries.post_list]
+    section = "2025-alliance-charts"
+    show_more = true
+    show_more_text = "Archive of 2025 Alliance Charts..."
+    show_more_url = "2025-alliance-charts"

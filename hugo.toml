@@ -1,0 +1,8 @@
+baseURL = 'https://civmc-map-archive.github.io/'
+languageCode = 'en-us'
+title = 'CivMC Map Archive'
+theme = 'nostyleplease'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
